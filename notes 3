@@ -1,0 +1,56 @@
+Quantitative data consists of numeric values. Data elements whose values come from counting or measuring are quantitative.
+
+Qualitative data consists of frequent text values. Data elements whose values describe characteristics, traits, 
+and attitudes are all qualitative.
+
+discrete data is useful when you have things you want to count. For example, a veterinary clinic may be interested in the 
+number of dogs and cats under its care.
+
+Qualitative data is discrete, but quantitative data can be either discrete or continuous data. For example, age is a continuous variable, 
+but you may treat a person's age in years as discrete. A good rule of thumb is that discrete applies when counting while continuous 
+applies when measuring.
+
+Dimensional modeling organizes data into fact tables and dimension tables. Fact tables store measurement data that is of interest to a 
+business. Dimensional data contains groupings of individual attributes about a given subject.
+
+categorical data
+Animal Type is a good example of categorical data.
+
+Structured Data
+Tabular data is structured data, with values stored in a consistent, defined manner, organized into columns and rows. Data is consistent 
+when all entries in a column contain the same type of value
+
+Unstructured Data
+Unstructured data is qualitative, describing the characteristics of an event or an object. Images, phrases, audio or video recordings, 
+and descriptive text are all examples of unstructured data. There is very little that is common about different kinds of unstructured 
+data. Since the data is highly variable, its organizational and storage needs are different from structured data. Unstructured data 
+also represents a significant opportunity. A Forbes study shows that over 90 percent of businesses need to manage and derive value 
+from unstructured data.
+
+Semi-Structured Data
+Semi-structured data is data that has structure and that is not tabular. Email is a well-known example of semi-structured data. 
+Every email message has structural components, including recipient, sender, subject, date, and time. However, the body of an email is 
+unstructured text, while attachments could be anything type of file.
+
+Text Files
+Text files are one of the most commonly used data file formats. As the name implies, they consist of plain text and are limited in 
+scope to alphanumeric data. One of the reasons text files are so widely adopted is their ability to be opened regardless of platform 
+or operating system without needing a proprietary piece of software. Whether you are using a Microsoft Windows desktop, an Apple 
+MacBook, or a Linux server, you can easily open a text file. Text files are also commonly referred to as flat files.
+
+ When a file is comma-delimited, it is known as a comma-separated values (CSV) file. Similarly, when a file is tab-delimited, 
+it is called a tab-separated values (TSV) file.
+
+JavaScript Object Notation
+JavaScript Object Notation (JSON) is an open standard file format, designed to add structure to a text file without incurring 
+significant overhead. One of its design principles is that JSON is easily readable by people and easily parsed by modern programming 
+languages. Languages such as Python, R, and Go have libraries containing functions that facilitate reading and writing JSON files.
+
+Extensible Markup Language (XML)
+Extensible Markup Language (XML) is a markup language that facilitates structuring data in a text file. While conceptually similar to 
+JSON, XML incurs more overhead because it makes extensive use of tags. Tags describe a data element and enclose each value for each 
+data element. While these tags help readability, they add a significant amount of overhead.
+
+HyperText Markup Language (HTML)
+HyperText Markup Language (HTML) is a markup language for documents designed to be displayed in a web browser. HTML pages serve as the 
+foundation for how people interact with the World Wide Web. Similar to XML, HTML is a tag-based language.
