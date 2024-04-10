@@ -1,0 +1,69 @@
+Descriptive Analytics: Descriptive analytics focuses on summarizing historical data to understand what has happened in the past. 
+It includes techniques such as data visualization, summary statistics, and exploratory data analysis.
+
+Predictive Analytics: Predictive analytics utilizes historical data to forecast future events or outcomes. 
+Techniques such as regression analysis, time series analysis, and machine learning algorithms like decision trees 
+and neural networks are commonly used in predictive analytics.
+
+Prescriptive Analytics: Prescriptive analytics goes beyond predicting future outcomes to recommend actions that can 
+optimize those outcomes. Optimization techniques, simulation models, and decision analysis are commonly employed in 
+prescriptive analytics.
+
+Numeric Data Types:
+Integer (int): Represents whole numbers without decimal points. For example, 1, 100, -5.
+
+Float/Double (float/double): Represents numbers with decimal points. For example, 3.14, -0.001, 1000.05.
+
+Decimal: Similar to float/double but with fixed precision. Useful for financial calculations.
+
+Text Data Types:
+String (str): Represents sequences of characters. For example, "Hello, World!", "123abc".
+
+Character (char): Represents a single character. Used in languages like C and C++.
+
+Boolean Data Type:
+Boolean (bool): Represents logical values of True or False. Often used in conditional statements and comparisons.
+
+Date and Time Data Types:
+Date: Represents dates without time information. For example, 2024-04-10.
+
+Time: Represents time without date information. For example, 10:30:00.
+DateTime: Represents both date and time together. For example, 2024-04-10 10:30:00.
+
+Timestamp: Represents a specific moment in time, often measured as the number of seconds or milliseconds since a reference point.
+
+Categorical Data Types:
+Ordinal: Represents data with a natural ordering. For example, rankings (1st, 2nd, 3rd).
+
+Nominal: Represents data with no inherent ordering. For example, colors (red, blue, green).
+
+Binary Data Types:
+Binary: Represents binary data, such as images, audio files, or any other non-text data.
+
+Structured Data Types:
+Arrays: Represents collections of items of the same type, organized in a linear sequence.
+
+Lists: Represents collections of items that can be of different types, often with flexible length.
+
+Tuples: Similar to lists but immutable (cannot be modified after creation).
+
+Dictionaries/Maps: Represents collections of key-value pairs, allowing fast retrieval of values based on keys.
+
+Geospatial Data Types:
+Point: Represents a single geographical point defined by latitude and longitude coordinates.
+
+LineString: Represents a sequence of points forming a line.
+
+Polygon: Represents a closed shape defined by a sequence of points.
+
+JSON/XML Data Types:
+JSON (JavaScript Object Notation): Represents structured data using JavaScript syntax, commonly used for exchanging data between a 
+server and a web application.
+
+XML (eXtensible Markup Language): Represents structured data using markup tags, commonly used for storing and exchanging data in a 
+platform-independent manner.
+
+Custom Data Types:
+Data types specific to certain programming languages, frameworks, or applications, defined by users or developers as per their 
+requirements.
+
