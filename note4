@@ -9,3 +9,7 @@ The acronym CRUD (Create, Read, Update, Delete) is a handy way to remember these
 
 SQL uses verbs to identify the type of activity a specific statement performs. For each CRUD activity, there is a corresponding DML 
 verb, as Table 3.8 illustrates. These verbs are known as keywords or words that are part of the SQL language itself.
+
+The two main categories of relational databases are transactional (OLTP) and analytical (OLAP). Transactional systems use highly 
+normalized schema design, which allows for database reads and writes to perform well. Analytical systems are denormalized and commonly 
+have a star or snowflake schema.
