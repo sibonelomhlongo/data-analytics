@@ -1,0 +1,11 @@
+Data Manipulation
+When manipulating data, one of four possible actions occurs:
+
+Create new data.
+Read existing data.
+Update existing data.
+Delete existing data.
+The acronym CRUD (Create, Read, Update, Delete) is a handy way to remember these four operations.
+
+SQL uses verbs to identify the type of activity a specific statement performs. For each CRUD activity, there is a corresponding DML 
+verb, as Table 3.8 illustrates. These verbs are known as keywords or words that are part of the SQL language itself.
